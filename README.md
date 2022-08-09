@@ -126,9 +126,13 @@
 - [ ] front-end development
 #### [Substrate tutorials](https://github.com/rusty-crewmates/substrate-tutorials)
 -[ ] [writing tests](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex00-writing-tests/)
+
 -[ ] [fungible token](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex01-fungible-token/)
+
 -[ ] [runtime](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex02-runtime/)
+
 -[ ] [nft](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex03-nft/)
+
 -[ ] [marketplace](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex04-marketplace/)
 
 ## Substrate engineer job boards

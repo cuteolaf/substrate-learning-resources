@@ -124,7 +124,7 @@
 - [ ] node operation
 - [ ] runtime development
 - [ ] front-end development
-#### [Substrate tutorials](https://github.com/rusty-crewmates/substrate-tutorials)
+### [Substrate tutorials](https://github.com/rusty-crewmates/substrate-tutorials)
 - [ ] [writing tests](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex00-writing-tests/)
 - [ ] [fungible token](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex01-fungible-token/)
 - [ ] [runtime](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex02-runtime/)

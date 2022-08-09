@@ -85,7 +85,7 @@
 - [ ] [Cryptography](https://docs.substrate.io/reference/cryptography/)
 
 ## Learn by doing
-> Practice makes perfect
+> "Practice makes perfect"
 ### https://docs.substrate.io/tutorials/
 #### Getting Started
 - [ ] [Build a local blockchain](https://docs.substrate.io/tutorials/get-started/build-local-blockchain/)
@@ -119,6 +119,11 @@
 - [ ] create your first substrate chain
 - [ ] pallet in own crate
 - [ ] start a private network
+### [Substrate crash course](https://github.com/JoshOrndorff/substrate-crash-course)
+- [ ] first transaction
+- [ ] node operation
+- [ ] runtime development
+- [ ] front-end development
 
 ## Substrate engineer job boards
 - https://forms.gle/mUoLGsDUSpy4yB3F9

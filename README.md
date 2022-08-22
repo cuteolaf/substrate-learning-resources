@@ -113,7 +113,7 @@
 #### Integrate with tools
 - [ ] [Integrate a light client node](https://docs.substrate.io/tutorials/integrate-with-tools/substrate-connect/)
 - [ ] [Access EVM accounts](https://docs.substrate.io/tutorials/integrate-with-tools/access-evm-accounts/)
-### https://github.com/substrate-developer-hub/tutorials
+### [Substrate Developer Hub - tutorials](https://github.com/substrate-developer-hub/tutorials)   (Stale, not recommended)
 - [ ] add a pallet
 - [ ] build a dapp
 - [ ] create your first substrate chain

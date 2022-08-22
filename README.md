@@ -127,7 +127,7 @@
 - [ ] [marketplace](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex04-marketplace/)
 
 ## Useful Tools
-- [bs58 decoer](https://whisperd.tech/bs58-codec/)
+- [bs58 decoder](https://whisperd.tech/bs58-codec/)
 ## Substrate engineer job boards
 - https://forms.gle/mUoLGsDUSpy4yB3F9
 - https://careers.substrate.io/jobs

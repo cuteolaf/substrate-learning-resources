@@ -119,20 +119,20 @@
 - [x] create your first substrate chain
 - [x] pallet in own crate
 - [x] start a private network
-### [Substrate crash course](https://github.com/JoshOrndorff/substrate-crash-course)
+### [JoshOrndorff - Substrate crash course](https://github.com/JoshOrndorff/substrate-crash-course)
 - [ ] first transaction
 - [ ] node operation
 - [ ] runtime development
 - [ ] front-end development
-### [Substrate tutorials](https://github.com/rusty-crewmates/substrate-tutorials)
-- [ ] [writing tests](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex00-writing-tests/)
-- [ ] [fungible token](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex01-fungible-token/)
-- [ ] [runtime](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex02-runtime/)
-- [ ] [nft](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex03-nft/)
-- [ ] [marketplace](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex04-marketplace/)
+### [Rusty Crewmate - Substrate tutorials](https://github.com/rusty-crewmates/substrate-tutorials)
+- [x] [writing tests](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex00-writing-tests/)
+- [x] [fungible token](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex01-fungible-token/)
+- [x] [runtime](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex02-runtime/)
+- [x] [nft](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex03-nft/)
+- [x] [marketplace](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex04-marketplace/)
 
 ## Useful Tools
-- [bs58 decoer](https://whisperd.tech/bs58-codec/)
+- [bs58 decoder](https://whisperd.tech/bs58-codec/)
 ## Substrate engineer job boards
 - https://forms.gle/mUoLGsDUSpy4yB3F9
 - https://careers.substrate.io/jobs

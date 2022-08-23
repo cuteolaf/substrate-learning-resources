@@ -119,11 +119,6 @@
 - [x] create your first substrate chain
 - [x] pallet in own crate
 - [x] start a private network
-### [JoshOrndorff - Substrate crash course](https://github.com/JoshOrndorff/substrate-crash-course)
-- [ ] first transaction
-- [ ] node operation
-- [ ] runtime development
-- [ ] front-end development
 ### [Rusty Crewmate - Substrate tutorials](https://github.com/rusty-crewmates/substrate-tutorials)
 - [x] [writing tests](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex00-writing-tests/)
 - [x] [fungible token](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex01-fungible-token/)

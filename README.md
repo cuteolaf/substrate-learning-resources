@@ -1,7 +1,7 @@
-# Master Substrate
+Master Substrate
 > My self-learning course for mastering Substrate
 
-## Theoretical backgrounds(Substrate Docs)
+## Backgrounds
 ### Fundamentals
 - [ ] [Blockchain basics](https://docs.substrate.io/main-docs/fundamentals/blockchain-basics/)
 - [ ] [Why Substrate?](https://docs.substrate.io/main-docs/fundamentals/why-substrate/)
@@ -84,7 +84,13 @@
 - [ ] [Transaction formats](https://docs.substrate.io/reference/how-to-guides/)
 - [ ] [Cryptography](https://docs.substrate.io/reference/cryptography/)
 
-## Learn by doing
+### Polkadot
+- [ ] [Polkadot Wiki](https://wiki.polkadot.network/)
+### PolkadotJS
+- [ ] [PolkadotJS Docs](https://polkadot.js.org/docs)
+### ink!
+- [ ] [Ink! documentation](https://ink.substrate.io/)
+## 2. Learn by doing
 > "Practice makes perfect"
 ### https://docs.substrate.io/tutorials/
 #### Getting Started
@@ -126,10 +132,14 @@
 - [ ] [nft](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex03-nft/)
 - [ ] [marketplace](https://github.com/rusty-crewmates/substrate-tutorials/tree/main/exercises/ex04-marketplace/)
 
-## Useful Tools
+## 3. Useful Tools
 - [bs58 decoder](https://whisperd.tech/bs58-codec/)
-## Substrate engineer job boards
+## 4. Substrate engineer job boards
 - https://forms.gle/mUoLGsDUSpy4yB3F9
 - https://careers.substrate.io/jobs
-## Other links
-- https://github.com/substrate-developer-hub/awesome-substrate
+## 5. Misc.
+- [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate)
+- [Substrate StackExchange](https://substrate.stackexchange.com/)
+- [SS58 Registry](https://github.com/paritytech/ss58-registry)
+## 6. Leading companies in the Substrate ecosystem
+- [Parity Technologies](https://www.parity.io/)

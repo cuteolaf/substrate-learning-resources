@@ -1,7 +1,7 @@
 Master Substrate
 > My self-learning course for mastering Substrate
 
-## Backgrounds
+## 1. Backgrounds
 ### Fundamentals
 - [ ] [Blockchain basics](https://docs.substrate.io/main-docs/fundamentals/blockchain-basics/)
 - [ ] [Why Substrate?](https://docs.substrate.io/main-docs/fundamentals/why-substrate/)
@@ -137,6 +137,7 @@ Master Substrate
 ## 4. Substrate engineer job boards
 - https://forms.gle/mUoLGsDUSpy4yB3F9
 - https://careers.substrate.io/jobs
+- https://dotjobs.net/
 ## 5. Misc.
 - [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate)
 - [Substrate StackExchange](https://substrate.stackexchange.com/)

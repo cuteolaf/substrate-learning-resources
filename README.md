@@ -78,9 +78,9 @@
 - [ ] [Glossary](https://docs.substrate.io/reference/glossary/)
 - [x] [Runtime APIs](https://docs.substrate.io/reference/command-line-tools/)
 - [x] [FRAME pallets](https://docs.substrate.io/reference/frame-pallets/)
-- [ ] [Frame macros](https://docs.substrate.io/reference/frame-macros/)
+- [x] [Frame macros](https://docs.substrate.io/reference/frame-macros/)
 - [x] [Account data structures](https://docs.substrate.io/reference/account-data-structures/)
-- [ ] [Type encoding(SCALE)](https://docs.substrate.io/reference/scale-codec/)
+- [x] [Type encoding(SCALE)](https://docs.substrate.io/reference/scale-codec/)
 - [x] [Transaction formats](https://docs.substrate.io/reference/how-to-guides/)
 - [x] [Cryptography](https://docs.substrate.io/reference/cryptography/)
 

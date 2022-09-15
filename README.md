@@ -39,63 +39,63 @@ Master Substrate
 
 #### Basics
 
-- [ ] [Import a pallet](/reference/how-to-guides/basics/import-a-pallet/)
-- [ ] [Configure runtime constants](/reference/how-to-guides/basics/configure-runtime-constants/)
-- [ ] [Configure genesis state](/reference/how-to-guides/basics/configure-genesis-state)
-- [ ] [Customize a chain specification](/reference/how-to-guides/basics/customize-a-chain-specification)
-- [ ] [Use helper functions](/reference/how-to-guides/basics/use-helper-functions)
-- [ ] [Mint primitive tokens](/reference/how-to-guides/basics/mint-basic-tokens/)
+- [ ] [Import a pallet](https://docs.substrate.io/reference/how-to-guides/basics/import-a-pallet/)
+- [ ] [Configure runtime constants](https://docs.substrate.io/reference/how-to-guides/basics/configure-runtime-constants/)
+- [ ] [Configure genesis state](https://docs.substrate.io/reference/how-to-guides/basics/configure-genesis-state/)
+- [ ] [Customize a chain specification](https://docs.substrate.io/reference/how-to-guides/basics/customize-a-chain-specification/)
+- [ ] [Use helper functions](https://docs.substrate.io/reference/how-to-guides/basics/use-helper-functions/)
+- [ ] [Mint primitive tokens](https://docs.substrate.io/reference/how-to-guides/basics/mint-basic-tokens/)
 
 #### Pallet design
 
-- [ ] [Add the contracts pallet](/reference/how-to-guides/pallet-design/add-contracts-pallet/)
-- [ ] [Implement lockable currency](/reference/how-to-guides/pallet-design/implement-lockable-currency/)
-- [ ] [Incorporate randomness](/reference/how-to-guides/pallet-design/incorporate-randomness/)
-- [ ] [Configure crowdfunding](/reference/how-to-guides/pallet-design/configure-crowdfunding/)
-- [ ] [Create a storage structure (struct)](/reference/how-to-guides/pallet-design/create-a-storage-structure/)
-- [ ] [Use tight pallet coupling](/reference/how-to-guides/pallet-design/use-tight-coupling/)
-- [ ] [Use loose pallet coupling](/reference/how-to-guides/pallet-design/use-loose-coupling/)
+- [ ] [Add the contracts pallet](https://docs.substrate.io/reference/how-to-guides/pallet-design/add-contracts-pallet/)
+- [ ] [Implement lockable currency](https://docs.substrate.io/reference/how-to-guides/pallet-design/implement-lockable-currency/)
+- [ ] [Incorporate randomness](https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/)
+- [ ] [Configure crowdfunding](https://docs.substrate.io/reference/how-to-guides/pallet-design/configure-crowdfunding/)
+- [ ] [Create a storage structure (struct)](https://docs.substrate.io/reference/how-to-guides/pallet-design/create-a-storage-structure/)
+- [ ] [Use tight pallet coupling](https://docs.substrate.io/reference/how-to-guides/pallet-design/use-tight-coupling/)
+- [ ] [Use loose pallet coupling](https://docs.substrate.io/reference/how-to-guides/pallet-design/use-loose-coupling/)
 
 #### Weights
 
-- [ ] [Calculate fees](/reference/how-to-guides/weights/calculate-fees/)
-- [ ] [Add benchmarks](/reference/how-to-guides/weights/add-benchmarks/)
-- [ ] [Use custom weights](/reference/how-to-guides/weights/use-custom-weights/)
-- [ ] [Use conditional weights](/reference/how-to-guides/weights/use-conditional-weights/)
+- [ ] [Calculate fees](https://docs.substrate.io/reference/how-to-guides/weights/calculate-fees/)
+- [ ] [Add benchmarks](https://docs.substrate.io/reference/how-to-guides/weights/add-benchmarks/)
+- [ ] [Use custom weights](https://docs.substrate.io/reference/how-to-guides/weights/use-custom-weights/)
+- [ ] [Use conditional weights](https://docs.substrate.io/reference/how-to-guides/weights/use-conditional-weights/)
 
 #### Testing
 
-- [ ] [Set up basic tests](/reference/how-to-guides/testing/set-up-basic-tests/)
-- [ ] [Test a transfer function](/reference/how-to-guides/testing/test-a-transfer-function/)
+- [ ] [Set up basic tests](https://docs.substrate.io/reference/how-to-guides/testing/set-up-basic-tests/)
+- [ ] [Test a transfer function](https://docs.substrate.io/reference/how-to-guides/testing/test-a-transfer-function/)
 
 #### Consensus models
 
-- [ ] [Create a hybrid node](/reference/how-to-guides/consensus-models/create-a-hybrid-node/)
-- [ ] [Add proof-of-work consensus](/reference/how-to-guides/consensus-models/add-proof-of-work-consensus/)
+- [ ] [Create a hybrid node](https://docs.substrate.io/reference/how-to-guides/consensus-models/create-a-hybrid-node/)
+- [ ] [Add proof-of-work consensus](https://docs.substrate.io/reference/how-to-guides/consensus-models/add-proof-of-work-consensus/)
 
 #### Parachains
 
-- [ ] [Convert a solo chain](/reference/how-to-guides/parachains/convert-a-solo-chain/)
-- [ ] [Connect to a relay chain](/reference/how-to-guides/parachains/connect-to-a-relay-chain/)
-- [ ] [Select collators](/reference/how-to-guides/parachains/select-collators/)
-- [ ] [Prepare to launch](/reference/how-to-guides/parachains/prepare-to-launch/)
-- [ ] [Runtime upgrades](/reference/how-to-guides/parachains/runtime-upgrade/)
-- [ ] [Auctions and crowdloans](/reference/how-to-guides/parachains/auctions-and-crowdloans/)
-- [ ] [Add HRMP channels](/reference/how-to-guides/parachains/add-hrmp-channels/)
+- [ ] [Convert a solo chain](https://docs.substrate.io/reference/how-to-guides/)
+- [ ] [Connect to a relay chain](https://docs.substrate.io/reference/how-to-guides/parachains/connect-to-a-relay-chain/)
+- [ ] [Select collators](https://docs.substrate.io/reference/how-to-guides/parachains/select-collators/)
+- [ ] [Prepare to launch](https://docs.substrate.io/reference/how-to-guides/parachains/prepare-to-launch/)
+- [ ] [Runtime upgrades](https://docs.substrate.io/reference/how-to-guides/parachains/runtime-upgrade/)
+- [ ] [Auctions and crowdloans](https://docs.substrate.io/reference/how-to-guides/parachains/auctions-and-crowdloans/)
+- [ ] [Add HRMP channels](https://docs.substrate.io/reference/how-to-guides/parachains/add-hrmp-channels/)
 
 #### Tools
 
-- [ ] [Use try-runtime](/reference/how-to-guides/tools/use-try-runtime/)
-- [ ] [Create a txwrapper for a chain](/reference/how-to-guides/tools/create-a-txwrapper/)
-- [ ] [Use REST endpoints to get chain data](/reference/how-to-guides/tools/use-sidecar/)
-- [ ] [Verify a Wasm binary](/reference/how-to-guides/tools/verify-wasm/)
+- [ ] [Use try-runtime](https://docs.substrate.io/reference/how-to-guides/tools/use-try-runtime/)
+- [ ] [Create a txwrapper for a chain](https://docs.substrate.io/reference/how-to-guides/tools/create-a-txwrapper/)
+- [ ] [Use REST endpoints to get chain data](https://docs.substrate.io/reference/how-to-guides/tools/use-sidecar/)
+- [ ] [Verify a Wasm binary](https://docs.substrate.io/reference/how-to-guides/tools/verify-wasm/)
 
 #### Offchain workers
 
-- [ ] [Make offchain transactions](/reference/how-to-guides/offchain-workers/offchain-transactions/)
-- [ ] [Make offchain HTTP requests](/reference/how-to-guides/offchain-workers/offchain-http-requests/)
-- [ ] [Offchain local storage](/reference/how-to-guides/offchain-workers/offchain-local-storage/)
-- [ ] [Offchain indexing](/reference/how-to-guides/offchain-workers/offchain-indexing/)
+- [ ] [Make offchain transactions](https://docs.substrate.io/reference/how-to-guides/offchain-workers/offchain-transactions/)
+- [ ] [Make offchain HTTP requests](https://docs.substrate.io/reference/how-to-guides/offchain-workers/offchain-http-requests/)
+- [ ] [Offchain local storage](https://docs.substrate.io/reference/how-to-guides/offchain-workers/offchain-local-storage/)
+- [ ] [Offchain indexing](https://docs.substrate.io/reference/how-to-guides/offchain-workers/offchain-indexing/)
 
 ### Reference
 
